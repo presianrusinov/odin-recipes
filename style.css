@@ -1,0 +1,42 @@
+body {
+    background-color: blanchedalmond;
+}
+
+
+#recipes{
+    text-align: center;
+    display: block;
+    background-color: hwb(80 17% 15%);
+    color: hsla(0, 0%, 96%, 0.636);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lasagna-page{
+    text-align: center;
+    display: block;
+    background-color: rgb(0, 128, 0);
+    color: blanchedalmond;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.pizza-page{
+    text-align: center;
+    display: block;
+    background-color: #fbf9f9;
+    color: hsl(0, 25%, 3%);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.risotto-page{
+    text-align: center;
+    display: block;
+    background-color: rgba(255, 7, 7, 0.817);
+    color:rgb(11, 154, 154);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size:15px;
+}

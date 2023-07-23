@@ -1,0 +1,23 @@
+body{
+    background-color: #966F33;
+}
+
+
+#h1{
+    text-align: center;
+    text-decoration: wavy;
+    background-color: rgb(204, 90, 9);
+    color:bisque;
+}
+
+#image{
+    margin: auto;
+    display: block;
+}
+
+#h2{
+    margin: auto;
+    display: block;
+    color: white;
+    font-weight: 200;
+}
