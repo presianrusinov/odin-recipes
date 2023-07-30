@@ -11,8 +11,12 @@ body{
 }
 
 #image{
-    margin: auto;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 #h2{
@@ -20,4 +24,42 @@ body{
     display: block;
     color: white;
     font-weight: 200;
+    text-align: center;
+}
+.p1{
+    display: block;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+}
+#Ingredients{
+  
+   margin: auto;
+   text-align: center;
+   font-weight: bold;
+   font-size: 25px;
+}
+
+ul li {
+    display: block;
+    text-align:center;
+    
+    font-weight: 300;
+    color:blanchedalmond;
+}
+
+.steps{
+    margin: auto;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+ol li {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
 }
